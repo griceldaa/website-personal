@@ -1,0 +1,17 @@
+.description h2 {
+  color:blueviolet;
+  font-size: 70px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-bottom: 1px;
+}
+.description h4 {
+  color:blueviolet;
+  font-size: 60px;
+  margin-bottom: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.description p {
+  color:#f2f2f2 ;
+  font-size: 15px;
+  margin-bottom: 15px;
+}

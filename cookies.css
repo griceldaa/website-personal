@@ -1,0 +1,14 @@
+.description h2 {
+    color: #ffffff;
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  .description h4 {
+    color:#1ed760;
+    font-size: 18px;
+  }
+  .description p {
+    color:#f2f2f2 ;
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
